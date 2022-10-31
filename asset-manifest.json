@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CurrencyRateApp/static/css/main.514cc23e.css",
+    "main.js": "/CurrencyRateApp/static/js/main.4553471b.js",
+    "static/js/419.4e7e64f3.chunk.js": "/CurrencyRateApp/static/js/419.4e7e64f3.chunk.js",
+    "static/js/787.a8b3d52c.chunk.js": "/CurrencyRateApp/static/js/787.a8b3d52c.chunk.js",
+    "static/media/primeicons.svg": "/CurrencyRateApp/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/CurrencyRateApp/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/CurrencyRateApp/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/CurrencyRateApp/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/CurrencyRateApp/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/CurrencyRateApp/index.html",
+    "main.514cc23e.css.map": "/CurrencyRateApp/static/css/main.514cc23e.css.map",
+    "main.4553471b.js.map": "/CurrencyRateApp/static/js/main.4553471b.js.map",
+    "419.4e7e64f3.chunk.js.map": "/CurrencyRateApp/static/js/419.4e7e64f3.chunk.js.map",
+    "787.a8b3d52c.chunk.js.map": "/CurrencyRateApp/static/js/787.a8b3d52c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.514cc23e.css",
+    "static/js/main.4553471b.js"
+  ]
+}
